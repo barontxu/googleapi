@@ -1,0 +1,12 @@
+{
+  "responses": [
+    {
+      "error": {
+        "code": 13,
+        "message": "image-annotator::Bad response.: Visual Service Permanent Backend Error!"
+      }
+    },
+    {},
+    {}
+  ]
+}
